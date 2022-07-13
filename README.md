@@ -4,5 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/bataseven/rosbot/blob/master/Images/rosbot.png" width=400 title="ROSBOT">
-  <img src="https://github.com/bataseven/rosbot/blob/master/Images/ros.png" width="400" title="ROS">
+</p>
+<p align="center">
+   <img src="https://github.com/bataseven/rosbot/blob/master/Images/ros.png" width="400" title="ROS">
 </p>
